@@ -1,0 +1,28 @@
+.navbar{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color:#d276a2 !important;  /* Warna navbar */
+    border-bottom: 2px solid #2b76c8;  /* Opsional: Tambahkan garis bawah */
+}
+
+.navbar-brand,
+.nav-link {
+    color: white !important; 
+    font-weight: bol;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #f8d7ff !important;  /* Warna saat hover */
+}
+
+.navbar-toggler {
+    border-color: white !important; /* Warna border hamburger menu */
+}
+footer{
+    background-color:#d276a2 !important;
+}
+img.rounded-circle{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
